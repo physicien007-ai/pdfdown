@@ -24,6 +24,30 @@
     "year": 2018
   },
   {
+    "id": "the-calamity-club",
+    "title": "THE CALAMITY CLUB",
+    "author": "Kathryn Stockett",
+    "description": "As things get tougher during the Depression, several women look for ways to improve their circumstances.",
+    "category": "Novel",
+    "coverUrl": "https://static01.nyt.com/bestsellers/images/9781954118812.jpg",
+    "fileUrl": "https://pdfdown.freedev.app/book1.html",
+    "fileType": "pdf",
+    "pages": 320,
+    "year": 2018
+  },
+   {
+    "id": "the-calamity-club",
+    "title": "YESTERYEAR",
+    "author": "Caro Claire Burke",
+    "description": "Natalie Heller Mills, a privileged tradwife social media influencer, wakes up to find she is living in the comparatively difficult reality of 1855.",
+    "category": "Novel",
+    "coverUrl": "https://static01.nyt.com/bestsellers/images/9780593804216.jpg",
+    "fileUrl": "https://pdfdown.freedev.app/book1.html",
+    "fileType": "pdf",
+    "pages": 320,
+    "year": 2018
+  },
+  {
     "id": "psychology-of-money",
     "title": "The Psychology of Money",
     "author": "Morgan Housel",
