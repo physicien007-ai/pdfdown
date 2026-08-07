@@ -11,6 +11,18 @@
     "pages": 320,
     "year": 2018
   },
+  {
+    "id": "summer-island",
+    "title": "Summer Island",
+    "author": "Kristin Hannah",
+    "description": "NEW YORK TIMES BESTSELLER • The renowned author of The Women presents a poignant, funny, luminous novel about a mother and daughter—the complex ties that bind them, the past that separates them, and the healing that comes with forgiveness",
+    "category": "Novel",
+    "coverUrl": "https://m.media-amazon.com/images/I/51Fm3Ata1fL._SY445_SX342_FMwebp_.jpg",
+    "fileUrl": "https://pdfdown.freedev.app/book1.html",
+    "fileType": "pdf",
+    "pages": 448,
+    "year": 2004
+  },
     {
     "id": "theo-of-golden",
     "title": "THEO OF GOLDEN",
@@ -36,7 +48,7 @@
     "year": 2018
   },
    {
-    "id": "the-calamity-club",
+    "id": "yesteryear",
     "title": "YESTERYEAR",
     "author": "Caro Claire Burke",
     "description": "Natalie Heller Mills, a privileged tradwife social media influencer, wakes up to find she is living in the comparatively difficult reality of 1855.",
